@@ -43,4 +43,8 @@
 	for (; $i <= 2; $i++)
 		print ("<p>When i = $i =>" . get_names() . "</p>");
 	
+	//Strings are characters with that are with quotes //SIngle quotes or double quotes
+	$string = "String55858585858";
+	$string_2 = 'string7777yyyyy';
+	
 ?>
